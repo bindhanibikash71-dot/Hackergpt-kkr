@@ -1,0 +1,12 @@
+{
+  "name": "EVIL GPT",
+  "description": "An ultra-premium cyberpunk AI SaaS platform featuring multi-model chat, character AI, community ecosystems, and enterprise management tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI_AGENT",
+    "REALTIME_CHAT"
+  ]
+}
